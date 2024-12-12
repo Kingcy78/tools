@@ -9,4 +9,6 @@ cd tools
 
 chmod +x 2
 
+pip install -r module.txt
+
 bash 2
